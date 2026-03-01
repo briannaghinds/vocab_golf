@@ -1,10 +1,10 @@
 import streamlit as st
 import streamlit.components.v1 as components
 import json
-from constants import VOCAB_FIRST_TEST
+from constants import VOCAB_FIRST_TEST, VOCAB_SECOND_TEST
 
 st.set_page_config(page_title="Vocab Golf", layout="wide", page_icon="⛳")
-VOCAB_JSON = json.dumps(VOCAB_FIRST_TEST)
+VOCAB_JSON = json.dumps(VOCAB_SECOND_TEST)
 
 # ─────────────────────────────────────────────
 # RENDER GAME

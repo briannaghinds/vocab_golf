@@ -178,3 +178,149 @@ VOCAB_FIRST_TEST = [
         ]
     }
 ]
+
+VOCAB_SECOND_TEST = [
+    {
+        "word": "view",
+        "meanings": [
+            {
+                "def": "an opinion or idea",
+                "example": "She shared her view on the new school policy.",
+                "distractors": [
+                    "a detailed written summary of a topic",
+                    "a strong feeling of anger or disagreement",
+                    "a physical object you can hold"
+                ]
+            },
+            {
+                "def": "to have a particular opinion or idea",
+                "example": "Many people view the movie as a classic.",
+                "distractors": [
+                    "to draw the outer edge of something",
+                    "to cause something to happen",
+                    "to list the main points of a speech"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "argue",
+        "meanings": [
+            {
+                "def": "to give reasons for or against something",
+                "example": "He argued for longer recess at school.",
+                "distractors": [
+                    "to summarize the main ideas of a text",
+                    "to quietly accept someone’s opinion",
+                    "to describe the shape of an object"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "argument",
+        "meanings": [
+            {
+                "def": "a reason given for or against something",
+                "example": "Her argument for recycling was very convincing.",
+                "distractors": [
+                    "a drawing that shows the edge of something",
+                    "a result that happens after an action",
+                    "a strong emotion that changes someone’s mood"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "outline",
+        "meanings": [
+            {
+                "def": "a line or shape that shows the outer edge of something",
+                "example": "You could see the outline of the mountains at sunset.",
+                "distractors": [
+                    "a written summary of main ideas",
+                    "a strong effect on someone",
+                    "an opinion about a topic"
+                ]
+            },
+            {
+                "def": "to draw the edge or shape of something",
+                "example": "She outlined the star before coloring it in.",
+                "distractors": [
+                    "to explain your opinion with reasons",
+                    "to change someone’s feelings",
+                    "to cause something to happen"
+                ]
+            },
+            {
+                "def": "a written summary that shows the main points or ideas of something",
+                "example": "He made an outline before writing his essay.",
+                "distractors": [
+                    "a line that shows the edge of an object",
+                    "a strong result of an action",
+                    "a personal belief about an issue"
+                ]
+            },
+            {
+                "def": "to give the main points or ideas of something",
+                "example": "The teacher asked her to outline the chapter.",
+                "distractors": [
+                    "to draw a picture carefully",
+                    "to argue loudly with someone",
+                    "to affect someone’s emotions"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "effect",
+        "meanings": [
+            {
+                "def": "something that happens as a result of something",
+                "example": "One effect of the storm was flooding in the streets.",
+                "distractors": [
+                    "an opinion about a topic",
+                    "a reason given to support a claim",
+                    "a line showing the outer shape of something"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "affect",
+        "meanings": [
+            {
+                "def": "to have an effect on or to change someone or something",
+                "example": "Lack of sleep can affect your mood.",
+                "distractors": [
+                    "to explain the main points of something",
+                    "to give reasons for a claim",
+                    "to describe the outer shape of something"
+                ]
+            },
+            {
+                "def": "to touch the feelings of someone",
+                "example": "The sad movie deeply affected the audience.",
+                "distractors": [
+                    "to organize objects neatly",
+                    "to create a musical work",
+                    "to show the edge of something"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "impact",
+        "meanings": [
+            {
+                "def": "the strong effect that someone or something has on a person or thing",
+                "example": "The teacher had a big impact on her students’ lives.",
+                "distractors": [
+                    "a short summary of key ideas",
+                    "a reason used in an argument",
+                    "a rare event that hardly happens"
+                ]
+            }
+        ]
+    }
+]
