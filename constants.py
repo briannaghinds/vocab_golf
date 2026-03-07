@@ -324,3 +324,219 @@ VOCAB_SECOND_TEST = [
         ]
     }
 ]
+
+VOCAB_THIRD_TEST = VOCAB_SECOND_TEST = [
+    {
+        "word": "identify",
+        "meanings": [
+            {
+                "def": "to show what or who something is",
+                "example": "The witness was able to identify the suspect in the lineup.",
+                "distractors": [
+                    "to choose something from a group",
+                    "to divide something into smaller parts",
+                    "to write a short summary of something"
+                ]
+            },
+            {
+                "def": "to think of one thing as being connected to another",
+                "example": "Many people identify the color green with nature.",
+                "distractors": [
+                    "to measure the size of something",
+                    "to notice a small detail in an object",
+                    "to organize things into neat groups"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "identification",
+        "meanings": [
+            {
+                "def": "the act of showing who a person or thing is",
+                "example": "The police asked for identification of the driver.",
+                "distractors": [
+                    "the act of choosing from a group",
+                    "the act of dividing something into parts",
+                    "the act of discovering something new"
+                ]
+            },
+            {
+                "def": "something that proves who you are",
+                "example": "She showed her school identification at the entrance.",
+                "distractors": [
+                    "a list of important ideas",
+                    "a part of a larger written work",
+                    "a result that happens after an action"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "identical",
+        "meanings": [
+            {
+                "def": "exactly alike",
+                "example": "The twins wore identical jackets to school.",
+                "distractors": [
+                    "very different from each other",
+                    "part of a larger group",
+                    "rarely seen or found"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "select",
+        "meanings": [
+            {
+                "def": "to pick or choose from a group",
+                "example": "The coach will select the team members tomorrow.",
+                "distractors": [
+                    "to discover something for the first time",
+                    "to divide something into parts",
+                    "to show proof of identity"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "selection",
+        "meanings": [
+            {
+                "def": "the act of picking out or choosing something from a group",
+                "example": "The selection of the winner took several hours.",
+                "distractors": [
+                    "the act of discovering something new",
+                    "the act of writing a long story",
+                    "the act of detecting small details"
+                ]
+            },
+            {
+                "def": "a person or thing that is chosen",
+                "example": "Her science project was the teacher's selection for the fair.",
+                "distractors": [
+                    "a group of written paragraphs",
+                    "a small section of music",
+                    "a part of a machine"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "section",
+        "meanings": [
+            {
+                "def": "one of the parts that makes up the whole of something",
+                "example": "Read the next section of the textbook for homework.",
+                "distractors": [
+                    "a reason given to support an idea",
+                    "a person chosen from a group",
+                    "a discovery made for the first time"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "passage",
+        "meanings": [
+            {
+                "def": "a short section of a written work or a piece of music",
+                "example": "The teacher asked us to read a passage from the novel.",
+                "distractors": [
+                    "a group of identical objects",
+                    "a tool used to detect problems",
+                    "a written summary of ideas"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "segment",
+        "meanings": [
+            {
+                "def": "one of the parts into which a whole is divided",
+                "example": "The show included a segment about space exploration.",
+                "distractors": [
+                    "a person who discovers something new",
+                    "an object used to prove identity",
+                    "a rare type of event"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "detect",
+        "meanings": [
+            {
+                "def": "to discover or notice",
+                "example": "Scientists can detect small changes in temperature.",
+                "distractors": [
+                    "to choose from a group",
+                    "to copy something exactly",
+                    "to divide something into equal parts"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "detectable",
+        "meanings": [
+            {
+                "def": "able to be detected; noticeable",
+                "example": "There was a detectable smell of smoke in the air.",
+                "distractors": [
+                    "impossible to notice",
+                    "exactly the same as something else",
+                    "chosen from many options"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "discover",
+        "meanings": [
+            {
+                "def": "to find or see something before anyone else",
+                "example": "The explorer discovered a new island.",
+                "distractors": [
+                    "to choose from a group",
+                    "to prove who someone is",
+                    "to divide something into sections"
+                ]
+            },
+            {
+                "def": "to find out about something",
+                "example": "She discovered that the test had been moved to Friday.",
+                "distractors": [
+                    "to organize objects neatly",
+                    "to write a musical composition",
+                    "to show the edge of something"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "discovery",
+        "meanings": [
+            {
+                "def": "the act of seeing or finding out something for the first time",
+                "example": "The discovery of electricity changed the world.",
+                "distractors": [
+                    "the act of choosing from a group",
+                    "the act of dividing something evenly",
+                    "the act of organizing objects"
+                ]
+            },
+            {
+                "def": "something that is seen or found out for the first time",
+                "example": "The scientist's discovery was published in a journal.",
+                "distractors": [
+                    "a section of a written story",
+                    "a person chosen from a group",
+                    "a strong emotional feeling"
+                ]
+            }
+        ]
+    }
+]
