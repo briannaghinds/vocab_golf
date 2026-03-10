@@ -540,3 +540,107 @@ VOCAB_THIRD_TEST = VOCAB_SECOND_TEST = [
         ]
     }
 ]
+
+VOCAB_FOURTH_TEST = [
+    {
+        "word": "responsible",
+        "meanings": [
+            {
+                "def": "expected to do certain jobs or duties",
+                "example": "She is responsible for feeding the class pet every day.",
+                "distractors": [
+                    "chosen from a group of many options",
+                    "divided into several equal parts",
+                    "difficult to notice or detect"
+                ]
+            },
+            {
+                "def": "being the cause of something",
+                "example": "Heavy rain was responsible for the flooding in the streets.",
+                "distractors": [
+                    "able to be discovered for the first time",
+                    "a short section of a written work",
+                    "exactly the same as something else"
+                ]
+            },
+            {
+                "def": "able to do things in a dependable and trustworthy way",
+                "example": "Her parents trust her because she is responsible with her homework.",
+                "distractors": [
+                    "likely to happen very often",
+                    "divided into separate segments",
+                    "easy to confuse with something else"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "responsibility",
+        "meanings": [
+            {
+                "def": "a job or duty",
+                "example": "Taking out the trash is one of his responsibilities at home.",
+                "distractors": [
+                    "a short musical or written passage",
+                    "a discovery made for the first time",
+                    "a part of a picture behind the main subject"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "experience",
+        "meanings": [
+            {
+                "def": "something that a person has done or lived through",
+                "example": "Traveling to another country was an exciting experience for her.",
+                "distractors": [
+                    "a person chosen from a group",
+                    "a written summary of ideas",
+                    "a tool used to detect problems"
+                ]
+            },
+            {
+                "def": "to live through or undergo",
+                "example": "The town experienced a strong earthquake last year.",
+                "distractors": [
+                    "to select something from many options",
+                    "to divide something into smaller sections",
+                    "to prove who someone is"
+                ]
+            },
+            {
+                "def": "the knowledge or skill gained by doing something",
+                "example": "Years of experience helped him become a great chef.",
+                "distractors": [
+                    "a part of a larger written work",
+                    "the act of discovering something new",
+                    "an object used for identification"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "background",
+        "meanings": [
+            {
+                "def": "the part of a picture or scene that is behind the main subject",
+                "example": "Mountains appeared in the background of the photo.",
+                "distractors": [
+                    "a short section of a book",
+                    "a person selected from a group",
+                    "something that happens as a result"
+                ]
+            },
+            {
+                "def": "the events and conditions that led up to or help explain another situation or event",
+                "example": "The teacher explained the historical background of the war.",
+                "distractors": [
+                    "the act of choosing from a group",
+                    "the outer edge or shape of something",
+                    "the number of times something happens"
+                ]
+            }
+        ]
+    }
+]
