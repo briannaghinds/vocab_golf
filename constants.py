@@ -325,7 +325,7 @@ VOCAB_SECOND_TEST = [
     }
 ]
 
-VOCAB_THIRD_TEST = VOCAB_SECOND_TEST = [
+VOCAB_THIRD_TEST = [
     {
         "word": "identify",
         "meanings": [
@@ -639,6 +639,175 @@ VOCAB_FOURTH_TEST = [
                     "the act of choosing from a group",
                     "the outer edge or shape of something",
                     "the number of times something happens"
+                ]
+            }
+        ]
+    }
+]
+
+VOCAB_FIFTH_TEST = [
+    {
+        "word": "indicate",
+        "meanings": [
+            {
+                "def": "to point out something clearly",
+                "example": "The teacher used a red pen to indicate the mistakes in the essay.",
+                "distractors": [
+                    "to hide something so others cannot see it",
+                    "to divide something into smaller pieces",
+                    "to choose one option from a group"
+                ]
+            },
+            {
+                "def": "to be a sign of something",
+                "example": "Dark clouds may indicate that a storm is coming.",
+                "distractors": [
+                    "to organize objects into neat groups",
+                    "to bring people together for a meeting",
+                    "to explain something in great detail"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "indication",
+        "meanings": [
+            {
+                "def": "anything that is a sign of something",
+                "example": "The rising temperature was an indication that summer was near.",
+                "distractors": [
+                    "a detailed plan for completing a task",
+                    "a group of people working together",
+                    "a tool used to measure distance"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "signal",
+        "meanings": [
+            {
+                "def": "any word or action agreed upon as a warning, message, or command",
+                "example": "The whistle was the signal for the race to begin.",
+                "distractors": [
+                    "a written description of a process",
+                    "a part of a machine used for cutting",
+                    "a person who leads a group"
+                ]
+            },
+            {
+                "def": "to send a signal to someone or something",
+                "example": "She raised her hand to signal the driver to stop.",
+                "distractors": [
+                    "to break something into smaller parts",
+                    "to hide information from others",
+                    "to build something from separate pieces"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "prompt",
+        "meanings": [
+            {
+                "def": "quick and without delay; on time",
+                "example": "The doctor gave prompt attention to the injured player.",
+                "distractors": [
+                    "done very slowly and carefully",
+                    "happening only once in a long time",
+                    "taking place at random times"
+                ]
+            },
+            {
+                "def": "to get someone to do something",
+                "example": "The teacher prompted the student to think about another solution.",
+                "distractors": [
+                    "to cancel an event completely",
+                    "to divide something into equal parts",
+                    "to store information for later use"
+                ]
+            },
+            {
+                "def": "a signal or cue to do something",
+                "example": "The blinking light served as a prompt to begin the presentation.",
+                "distractors": [
+                    "a device used for measuring time",
+                    "a rule that cannot be broken",
+                    "a group of people working together"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "method",
+        "meanings": [
+            {
+                "def": "a way in which something is done",
+                "example": "The scientist used a careful method to test the hypothesis.",
+                "distractors": [
+                    "a random guess without evidence",
+                    "a part of a machine that moves",
+                    "a person who teaches a subject"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "methodical",
+        "meanings": [
+            {
+                "def": "done in a careful way that follows a system or plan",
+                "example": "The detective took a methodical approach to solving the mystery.",
+                "distractors": [
+                    "done quickly without thinking",
+                    "happening by pure accident",
+                    "completed only once and never again"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "assemble",
+        "meanings": [
+            {
+                "def": "to bring or come together in a group",
+                "example": "The students assembled in the gym for the school meeting.",
+                "distractors": [
+                    "to travel alone to a distant place",
+                    "to divide something into smaller pieces",
+                    "to hide objects so they cannot be found"
+                ]
+            },
+            {
+                "def": "to put together all the parts of something",
+                "example": "She assembled the bicycle using the instructions in the box.",
+                "distractors": [
+                    "to remove pieces from a machine",
+                    "to throw away broken objects",
+                    "to measure how large something is"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "assembly",
+        "meanings": [
+            {
+                "def": "a group of people meeting together for a particular reason",
+                "example": "The school held an assembly to celebrate student achievements.",
+                "distractors": [
+                    "a tool used to build furniture",
+                    "a written explanation of a process",
+                    "a signal used to warn people"
+                ]
+            },
+            {
+                "def": "the act of putting parts together to make a whole",
+                "example": "The assembly of the new computer took several hours.",
+                "distractors": [
+                    "the act of separating objects into pieces",
+                    "the process of hiding information",
+                    "the habit of arriving late to meetings"
                 ]
             }
         ]
