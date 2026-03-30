@@ -813,3 +813,121 @@ VOCAB_FIFTH_TEST = [
         ]
     }
 ]
+
+VOCAB_SIXTH_TEST = [
+    {
+        "word": "source",
+        "meanings": [
+            {
+                "def": "the place, person, or thing from which something comes",
+                "example": "The river is the main source of water for the town.",
+                "distractors": [
+                    "a tool used to measure something",
+                    "a group of people working together",
+                    "a plan for organizing an event"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "resource",
+        "meanings": [
+            {
+                "def": "someone or something that can be turned to for help or support",
+                "example": "The library is a helpful resource for students doing research.",
+                "distractors": [
+                    "a problem that must be solved quickly",
+                    "a rule that everyone must follow",
+                    "a signal used to start an activity"
+                ]
+            },
+            {
+                "def": "someone valuable to a person, place, or group of people",
+                "example": "The experienced teacher is a great resource for the school.",
+                "distractors": [
+                    "a machine used to build structures",
+                    "a place where people gather for meetings",
+                    "a written summary of information"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "resourceful",
+        "meanings": [
+            {
+                "def": "good at knowing what to do or where to get help",
+                "example": "She was resourceful and found a way to fix the problem using simple tools.",
+                "distractors": [
+                    "unable to solve problems without help",
+                    "working very slowly and carefully",
+                    "following instructions exactly every time"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "structure",
+        "meanings": [
+            {
+                "def": "something that has been built, such as a building",
+                "example": "The bridge is a strong structure made of steel and concrete.",
+                "distractors": [
+                    "a method used to solve a problem",
+                    "a group of people meeting together",
+                    "a signal used to give a warning"
+                ]
+            },
+            {
+                "def": "the way in which something is organized or put together",
+                "example": "The structure of the essay made the argument easy to follow.",
+                "distractors": [
+                    "the speed at which something moves",
+                    "a tool used to measure distance",
+                    "a place where materials are stored"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "support",
+        "meanings": [
+            {
+                "def": "to hold something up in order to keep it from falling",
+                "example": "The beams support the roof of the house.",
+                "distractors": [
+                    "to divide something into smaller parts",
+                    "to remove something from a structure",
+                    "to measure how heavy something is"
+                ]
+            },
+            {
+                "def": "to believe in something or someone",
+                "example": "Many people support the idea of protecting the environment.",
+                "distractors": [
+                    "to argue strongly against something",
+                    "to ignore someone's opinion",
+                    "to forget about an important issue"
+                ]
+            },
+            {
+                "def": "the act of providing help and encouragement",
+                "example": "Her family gave her a lot of support during the competition.",
+                "distractors": [
+                    "the act of dividing work among people",
+                    "the process of building a large structure",
+                    "the habit of arriving early to events"
+                ]
+            },
+            {
+                "def": "to show to be true",
+                "example": "The evidence supports the scientist’s theory.",
+                "distractors": [
+                    "to hide information from others",
+                    "to change the meaning of a statement",
+                    "to remove details from a report"
+                ]
+            }
+        ]
+    }
+]
