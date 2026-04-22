@@ -6,7 +6,7 @@ from constants import *
 st.set_page_config(page_title="Vocab Golf", layout="wide", page_icon="⛳")
 
 # full word bank
-VOCAB_JSON = json.dumps(VOCAB_SIXTH_TEST)
+VOCAB_JSON = json.dumps(VOCAB_SEVENTH_TEST)
 
 # ─────────────────────────────────────────────
 # RENDER GAME

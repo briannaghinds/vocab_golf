@@ -931,3 +931,135 @@ VOCAB_SIXTH_TEST = [
         ]
     }
 ]
+
+VOCAB_SEVENTH_TEST = [
+    {
+        "word": "introduce",
+        "meanings": [
+            {
+                "def": "to begin or start",
+                "example": "The teacher will introduce the new unit on ecosystems tomorrow.",
+                "distractors": [
+                    "to finish something completely",
+                    "to divide something into smaller parts",
+                    "to hide something from others"
+                ]
+            },
+            {
+                "def": "to bring in something new",
+                "example": "The company plans to introduce a new product next month.",
+                "distractors": [
+                    "to remove something that already exists",
+                    "to repeat something that was already said",
+                    "to organize items into neat groups"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "introduction",
+        "meanings": [
+            {
+                "def": "the first time that something is experienced",
+                "example": "The trip to the science museum was her introduction to astronomy.",
+                "distractors": [
+                    "the final stage of a long process",
+                    "a method used to solve a problem",
+                    "a signal used to begin a race"
+                ]
+            },
+            {
+                "def": "the opening part of a book or other written work",
+                "example": "The introduction of the essay explains the topic and main idea.",
+                "distractors": [
+                    "the last paragraph that summarizes ideas",
+                    "a section that lists references and sources",
+                    "a chart that shows information visually"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "introductory",
+        "meanings": [
+            {
+                "def": "serving to introduce",
+                "example": "She took an introductory course in computer programming.",
+                "distractors": [
+                    "designed only for experts in a subject",
+                    "intended to summarize everything at the end",
+                    "used to correct mistakes in a document"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "reveal",
+        "meanings": [
+            {
+                "def": "to make known or tell",
+                "example": "The report revealed important information about climate change.",
+                "distractors": [
+                    "to hide important information",
+                    "to divide a subject into smaller sections",
+                    "to organize objects into neat rows"
+                ]
+            },
+            {
+                "def": "to uncover or bring into view",
+                "example": "The curtain opened to reveal the stage behind it.",
+                "distractors": [
+                    "to build something piece by piece",
+                    "to measure how large something is",
+                    "to move something to a different location"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "exhibit",
+        "meanings": [
+            {
+                "def": "to show or display something for viewing",
+                "example": "The museum will exhibit ancient artifacts from Egypt.",
+                "distractors": [
+                    "to store something away for later",
+                    "to remove items from a collection",
+                    "to hide objects from public view"
+                ]
+            },
+            {
+                "def": "to show or reveal feelings, behaviors, or signs of something",
+                "example": "The patient began to exhibit signs of improvement.",
+                "distractors": [
+                    "to deny that something exists",
+                    "to ignore a clear problem",
+                    "to erase evidence of an event"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "display",
+        "meanings": [
+            {
+                "def": "to put on view or show something",
+                "example": "The store displays its newest products in the front window.",
+                "distractors": [
+                    "to hide something in a safe place",
+                    "to break something into smaller pieces",
+                    "to move something to another location"
+                ]
+            },
+            {
+                "def": "something that is put on view for everyone to see",
+                "example": "The science fair display attracted many visitors.",
+                "distractors": [
+                    "a tool used to measure distance",
+                    "a plan used to organize a project",
+                    "a signal used to warn people"
+                ]
+            }
+        ]
+    }
+] 
