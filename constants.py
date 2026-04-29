@@ -1063,3 +1063,103 @@ VOCAB_SEVENTH_TEST = [
         ]
     }
 ] 
+
+VOCAB_EIGHTH_TEST = [
+    {
+        "word": "consult",
+        "meanings": [
+            {
+                "def": "to go to another person or other source for information or advice",
+                "example": "She decided to consult a doctor about the strange symptoms.",
+                "distractors": [
+                    "to hide information from someone",
+                    "to divide something into smaller sections",
+                    "to build something from separate parts"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "discuss",
+        "meanings": [
+            {
+                "def": "to talk over something with other people",
+                "example": "The students met after class to discuss the group project.",
+                "distractors": [
+                    "to keep an idea completely secret",
+                    "to measure how large something is",
+                    "to break something into pieces"
+                ]
+            },
+            {
+                "def": "to present an idea or point of view by writing or talking about it",
+                "example": "The author discusses the effects of climate change in the article.",
+                "distractors": [
+                    "to remove all information about a topic",
+                    "to build a machine from many parts",
+                    "to travel to a distant location"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "discussion",
+        "meanings": [
+            {
+                "def": "a serious talk about something",
+                "example": "The class had a long discussion about the book they were reading.",
+                "distractors": [
+                    "a written plan for building something",
+                    "a signal used to start a race",
+                    "a tool used to measure distance"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "design",
+        "meanings": [
+            {
+                "def": "to draw or plan something that could be built or made",
+                "example": "The architect will design a new bridge for the city.",
+                "distractors": [
+                    "to remove pieces from a structure",
+                    "to hide an object from view",
+                    "to divide something into equal parts"
+                ]
+            },
+            {
+                "def": "a drawing or plan showing how something is to be built or made",
+                "example": "The engineer studied the design before starting construction.",
+                "distractors": [
+                    "a signal used to send a message",
+                    "a group of people working together",
+                    "a place where materials are stored"
+                ]
+            },
+            {
+                "def": "a pattern made up of lines, figures, or objects",
+                "example": "The rug had a colorful geometric design.",
+                "distractors": [
+                    "a written explanation of a process",
+                    "a method used to measure speed",
+                    "a rule that everyone must follow"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "designed",
+        "meanings": [
+            {
+                "def": "to be meant for a special purpose",
+                "example": "This program was designed to help students improve their reading skills.",
+                "distractors": [
+                    "to happen completely by accident",
+                    "to break something into smaller parts",
+                    "to ignore an important problem"
+                ]
+            }
+        ]
+    }
+]
