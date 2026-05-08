@@ -1163,3 +1163,172 @@ VOCAB_EIGHTH_TEST = [
         ]
     }
 ]
+
+VOCAB_NINTH_TEST = [
+    {
+        "word": "vary",
+        "meanings": [
+            {
+                "def": "to be different or become different from what was before",
+                "example": "The temperatures can vary greatly between day and night in the desert.",
+                "distractors": [
+                    "to stay exactly the same at all times",
+                    "to divide something into equal parts",
+                    "to measure the size of something"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "variation",
+        "meanings": [
+            {
+                "def": "a change from the usual",
+                "example": "The recipe includes a variation that uses honey instead of sugar.",
+                "distractors": [
+                    "a rule that must always be followed",
+                    "a tool used to measure distance",
+                    "a group of people meeting together"
+                ]
+            },
+            {
+                "def": "a slightly different form or version of something",
+                "example": "The band played a variation of the traditional song.",
+                "distractors": [
+                    "an exact copy with no differences",
+                    "a written explanation of a problem",
+                    "a signal used to give a warning"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "various",
+        "meanings": [
+            {
+                "def": "more than one kind; several",
+                "example": "The museum displays various types of ancient tools.",
+                "distractors": [
+                    "only one single kind",
+                    "something that happens very rarely",
+                    "a plan for organizing a project"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "variety",
+        "meanings": [
+            {
+                "def": "a number of different things in a group",
+                "example": "The store sells a variety of fruits and vegetables.",
+                "distractors": [
+                    "one item chosen from many",
+                    "a machine used to build structures",
+                    "a signal used to start an activity"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "project",
+        "meanings": [
+            {
+                "def": "a task or planned piece of work that requires much time and effort to complete",
+                "example": "Building the new playground was a large community project.",
+                "distractors": [
+                    "a quick decision made without planning",
+                    "a small task finished in a few minutes",
+                    "a signal used to begin an event"
+                ]
+            },
+            {
+                "def": "a school assignment that is completed over a period of time",
+                "example": "Her science project about plants won first place at the fair.",
+                "distractors": [
+                    "a short quiz given at the end of class",
+                    "a rule students must follow",
+                    "a schedule of school activities"
+                ]
+            },
+            {
+                "def": "to stick out farther than or beyond something",
+                "example": "The balcony projects out over the street.",
+                "distractors": [
+                    "to sink below the surface",
+                    "to break into smaller pieces",
+                    "to disappear from view"
+                ]
+            },
+            {
+                "def": "to try to figure out ahead of time; to look ahead",
+                "example": "The scientists project that the population will grow in the next decade.",
+                "distractors": [
+                    "to forget something from the past",
+                    "to measure something in the present",
+                    "to repeat something exactly as before"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "illustrate",
+        "meanings": [
+            {
+                "def": "to explain or make clear by using examples, stories, or comparisons",
+                "example": "The teacher used a story to illustrate the lesson.",
+                "distractors": [
+                    "to hide the meaning of something",
+                    "to remove examples from a text",
+                    "to divide information into sections"
+                ]
+            },
+            {
+                "def": "to draw or provide pictures for a book or other written material",
+                "example": "The artist was hired to illustrate the children's book.",
+                "distractors": [
+                    "to write the final chapter of a book",
+                    "to edit grammar mistakes in a story",
+                    "to print copies of a document"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "illustration",
+        "meanings": [
+            {
+                "def": "a picture someone has created in a book or other written material",
+                "example": "The illustration showed what the dinosaur might have looked like.",
+                "distractors": [
+                    "a written summary at the end of a chapter",
+                    "a rule that guides a discussion",
+                    "a tool used to measure distance"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "graphic",
+        "meanings": [
+            {
+                "def": "a picture, diagram, or other image",
+                "example": "The report included a graphic showing the growth of the city.",
+                "distractors": [
+                    "a long paragraph explaining a topic",
+                    "a spoken message delivered to a group",
+                    "a written list of instructions"
+                ]
+            },
+            {
+                "def": "having to do with pictures or images",
+                "example": "She studied graphic design in college.",
+                "distractors": [
+                    "related to spoken conversations",
+                    "having to do with numbers only",
+                    "related to physical exercise"
+                ]
+            }
+        ]
+    }
+]
